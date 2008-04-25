@@ -1,0 +1,4 @@
+Revision history for Bundle::Net-SNMP-Mixin
+
+0.09	Fr 25. Apr 19:05:18 CEST 2008
+	separate Module, no longer within Net::SNMP::Mixin
