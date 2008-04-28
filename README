@@ -2,7 +2,7 @@ NAME
     Bundle::Net::SNMP::Mixin - A bundle for Net::SNMP::Mixins
 
 VERSION
-    Version 0.09
+    Version 0.10
 
 SYNOPSIS
         perl -MCPAN -e 'install Bundle::Net::SNMP::Mixin'

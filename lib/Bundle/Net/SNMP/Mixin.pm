@@ -1,9 +1,9 @@
-package Bundle::Net::SNMP::Mixin
+package Bundle::Net::SNMP::Mixin;
 
 use strict;
 use warnings;
 
-$Bundle::Net::SNMP::Mixin::VERSION = '0.09';
+$Bundle::Net::SNMP::Mixin::VERSION = '0.10';
 
 1;
 
@@ -15,7 +15,7 @@ Bundle::Net::SNMP::Mixin - A bundle for Net::SNMP::Mixins
 
 =head1 VERSION
 
-Version 0.09
+Version 0.10
 
 =head1 SYNOPSIS
 
