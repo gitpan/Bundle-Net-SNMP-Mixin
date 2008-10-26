@@ -3,7 +3,7 @@ package Bundle::Net::SNMP::Mixin;
 use strict;
 use warnings;
 
-$Bundle::Net::SNMP::Mixin::VERSION = '0.10';
+$Bundle::Net::SNMP::Mixin::VERSION = '0.11';
 
 1;
 
@@ -54,6 +54,8 @@ Net::SNMP::Mixin::Dot1abLldp
 Net::SNMP::Mixin::Dot1qVlanStatic
 
 Net::SNMP::Mixin::Dot1qFdb
+
+Net::SNMP::Mixin::IpRouteTable
 
 =head1 AUTHOR
 

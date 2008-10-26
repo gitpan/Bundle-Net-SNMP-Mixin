@@ -4,9 +4,9 @@ Changes
 lib/Bundle/Net/SNMP/Mixin.pm
 LICENSE
 MANIFEST			This list of files
-META.yml
-README
 t/00-load.t
 t/boilerplate.t
 t/pod-coverage.t
 t/pod.t
+README
+META.yml

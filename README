@@ -40,6 +40,8 @@ CONTENTS
 
     Net::SNMP::Mixin::Dot1qFdb
 
+    Net::SNMP::Mixin::IpRouteTable
+
 AUTHOR
     Karl Gaissmaier karl.gaissmaier (at) uni-ulm.de
 
